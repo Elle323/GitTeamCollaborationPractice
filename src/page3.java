@@ -4,5 +4,6 @@ public class page3 {
 
         System.out.println("Finally tomorrow is Friday!");
 
+
     }
 }
